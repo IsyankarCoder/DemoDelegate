@@ -1,0 +1,12 @@
+D:\VsProject\DelegateDemo\DemoLibrary\bin\Debug\net5.0\DemoLibrary.deps.json
+D:\VsProject\DelegateDemo\DemoLibrary\bin\Debug\net5.0\DemoLibrary.dll
+D:\VsProject\DelegateDemo\DemoLibrary\bin\Debug\net5.0\ref\DemoLibrary.dll
+D:\VsProject\DelegateDemo\DemoLibrary\bin\Debug\net5.0\DemoLibrary.pdb
+D:\VsProject\DelegateDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.csprojAssemblyReference.cache
+D:\VsProject\DelegateDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\VsProject\DelegateDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.AssemblyInfoInputs.cache
+D:\VsProject\DelegateDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.AssemblyInfo.cs
+D:\VsProject\DelegateDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.csproj.CoreCompileInputs.cache
+D:\VsProject\DelegateDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.dll
+D:\VsProject\DelegateDemo\DemoLibrary\obj\Debug\net5.0\ref\DemoLibrary.dll
+D:\VsProject\DelegateDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.pdb
